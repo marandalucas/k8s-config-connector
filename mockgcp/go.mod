@@ -91,7 +91,7 @@ require (
 	github.com/ghodss/yaml v1.0.0 // indirect
 	github.com/gke-labs/kube-etl/syncer v0.0.0-20260318164412-11816ec1e858 // indirect
 	github.com/gke-labs/multicluster-leader-election v0.0.0-20260219060047-1ae5cb16f27e // indirect
-	github.com/go-jose/go-jose/v4 v4.1.3 // indirect
+	github.com/go-jose/go-jose/v4 v4.1.4 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-logr/zapr v1.3.0 // indirect
